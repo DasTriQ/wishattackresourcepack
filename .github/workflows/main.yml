@@ -47,3 +47,4 @@ jobs:
         asset_path: ${{ github.workspace }}/${{ env.ZIP_NAME }}
         asset_name: ${{ env.ZIP_NAME }}
         asset_content_type: application/zip
+ 
