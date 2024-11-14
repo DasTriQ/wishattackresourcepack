@@ -1,0 +1,48 @@
+{
+  "pack": {
+    "pack_format": 34,
+    "supported_formats": 0,
+    "description": [
+      {
+        "text": "M",
+        "color": "#00ffe1"
+      },
+      {
+        "text": "a",
+        "color": "#00f4f7"
+      },
+      {
+        "text": "d",
+        "color": "#00e6ff"
+      },
+      {
+        "text": "e",
+        "color": "#00d8ff"
+      },
+      {
+        "text": " b",
+        "color": "#3fcaff"
+      },
+      {
+        "text": "y",
+        "color": "#63bcff"
+      },
+      {
+        "text": " T",
+        "color": "#86aaff"
+      },
+      {
+        "text": "r",
+        "color": "#af8eff"
+      },
+      {
+        "text": "i",
+        "color": "#e059ff"
+      },
+      {
+        "text": "Q",
+        "color": "#ff00d4"
+      }
+    ]
+  }
+}
